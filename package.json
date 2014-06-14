@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "angular": "^1.2.16",
+    "body-parser": "*",
+    "express": "*",
+    "grunt": "^0.4.5"
+  }
+}
